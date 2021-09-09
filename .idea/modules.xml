@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/digital-innovation-one.iml" filepath="$PROJECT_DIR$/.idea/digital-innovation-one.iml" />
       <module fileurl="file://$PROJECT_DIR$/everis-quality-assurance-beginner-2/everis-quality-assurance-beginner-2.iml" filepath="$PROJECT_DIR$/everis-quality-assurance-beginner-2/everis-quality-assurance-beginner-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-developer/java-developer.iml" filepath="$PROJECT_DIR$/java-developer/java-developer.iml" />
     </modules>
   </component>
 </project>
